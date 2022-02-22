@@ -1,0 +1,16 @@
+.container{
+    background-color: red;
+    text-align: center;
+    height: 720pxx;
+}
+.subcontainer{
+    background-color: greenyellow;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+h1{
+    text-decoration: underline;
+}
